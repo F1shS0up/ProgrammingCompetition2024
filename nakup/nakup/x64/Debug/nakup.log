@@ -1,0 +1,4 @@
+﻿  nakup.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\Zuzka\Documents\program\nakup\nakup\nakup.cpp(83,53): warning C4267: =: Převod z: size_t na: int, může dojít ke ztrátě dat.
+  nakup.vcxproj -> C:\Users\Zuzka\Documents\program\nakup\x64\Debug\nakup.exe

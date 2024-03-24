@@ -1,0 +1,4 @@
+obchod1: banány, mandarinky 
+obchod2: jablka, borùvky, bílé hrozno
+obchod3: jablka, hrušky, mandarinky, borùvky
+obchod3: jablka, hrušky, granátové jablko, borùvky
